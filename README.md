@@ -5,7 +5,7 @@
 特色（推广的一下亮点）
 
 ## 安装下载
-
+- 下载地址：https://github.com/1094712794/0517scrollTop/releases/tag/v0.0.1
 
 ## 快速使用
 简单接入的文档
