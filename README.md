@@ -6,6 +6,7 @@
 
 ## 安装下载
 - 下载地址：https://github.com/1094712794/0517scrollTop/releases/tag/v0.0.1
+- npm 下载： npm i 0517scrolltop
 
 ## 快速使用
 简单接入的文档
