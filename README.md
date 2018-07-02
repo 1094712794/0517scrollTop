@@ -9,8 +9,8 @@
 
 ## 快速使用
 简单接入的文档
-- 使用文档
-- 二次开发文档（./doc/具体文档）
+- [使用文档](./doc/dev/README.md)
+- [二次开发文档](./doc/use/README.md)
 
 var E = window.wangEditor
 var editor = new E('#div1')
