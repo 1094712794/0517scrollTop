@@ -16,3 +16,8 @@ cache.set('a','2018-7-2');
 ```
 cache.get('a')
 ```
+
+## 清空
+```
+cache.clear()
+```

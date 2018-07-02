@@ -8,5 +8,8 @@ class FastCache{
 	get(key){
 		return this.list[key]
 	}
+	clear(){//修改的代码
+		this.list={}
+	}
 }
 window.FastCache=FastCache
